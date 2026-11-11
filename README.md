@@ -1,0 +1,2 @@
+# mini-c
+Hello, World!
